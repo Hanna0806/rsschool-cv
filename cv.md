@@ -9,4 +9,4 @@
 ### 2007-2012  **Vitebsk State University (Economic degree)**
 ---
 # MY ADVANTAGES
-### **Purposefulness, friendliness, punctuality**---
+### **Purposefulness, friendliness, punctuality**
