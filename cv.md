@@ -18,3 +18,6 @@ function evenOrOdd(number) {
   return number % 2 ? "Odd" : "Even";
 }
 ```
+---
+# PROJECT
+### RSchool CV task **[CV](https://github.com/Hanna0806/rsschool-cv)**
