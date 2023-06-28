@@ -1,4 +1,4 @@
-![Photo](photo7.jpg)
+![Photo](photo.jpg)
 # PERSONAL INFORMATION 
 ### Name **Halanova Hanna**
 ### Adress **RB, Vitebsk, Kirova str., 9-10**
