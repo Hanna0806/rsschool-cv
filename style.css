@@ -3,8 +3,8 @@
 }
 
 html {
-    scroll-behavior: smooth; 
-  }
+    scroll-behavior: smooth;
+}
 
 body {
     font-family: 'Prompt', sans-serif;
@@ -16,9 +16,9 @@ body {
     justify-content: space-between;
 }
 
-header,
-main,
-footer {
+.header,
+.main,
+.footer {
     border: 1px solid red;
 }
 
@@ -33,14 +33,15 @@ footer {
     align-items: center;
     list-style: none;
 }
+
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
     color: #318ce7;
-  text-decoration: none;  
-  transition: color 0.5s;
-  }
+    text-decoration: none;
+    transition: color 0.5s;
+}
 
-  .nav-link:hover {
+.nav-link:hover {
     color: #e52b50;
-  }
+}
