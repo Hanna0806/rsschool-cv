@@ -14,12 +14,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-
-.header,
-.main,
-.footer {
-    border: 1px solid red;
+    font-size: 22px;
+    font-weight: 200;
+    color: #444444;
 }
 
 .container {
@@ -34,7 +31,8 @@ body {
     list-style: none;
 }
 
-.nav-link {
+.nav-link,
+.link {
     padding: 0 20px;
     line-height: 50px;
     color: #318ce7;
@@ -42,6 +40,26 @@ body {
     transition: color 0.5s;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.link:hover {
     color: #e52b50;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
+.section-title {
+    color: #0080ff;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
 }
