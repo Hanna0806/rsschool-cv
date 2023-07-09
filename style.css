@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth; 
+  }
+
 body {
     font-family: 'Prompt', sans-serif;
     min-height: 100vh;
@@ -27,4 +31,16 @@ footer {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    list-style: none;
 }
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    color: #318ce7;
+  text-decoration: none;  
+  transition: color 0.5s;
+  }
+
+  .nav-link:hover {
+    color: #e52b50;
+  }
