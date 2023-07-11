@@ -1,0 +1,23 @@
+![Photo](assets/img/avatar.jpg)
+# PERSONAL INFORMATION 
+### Name **Halanova Hanna**
+### Adress **RB, Vitebsk, Kirova str., 9-10**
+### E-mail **anna.gal0806@gmail.com**
+### GitHub **[Hanna0806](https://github.com/Hanna0806)**
+### Date of Birth **07-07-1989**
+# EDUCATION
+### 2007-2012  **Vitebsk State University (Economic degree)**
+---
+# MY ADVANTAGES
+### **Purposefulness, friendliness, punctuality**
+---
+# CODE EXAMPLE
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+```
+function evenOrOdd(number) {
+  return number % 2 ? "Odd" : "Even";
+}
+```
+---
+# PROJECT
+### RSchool CV task **[CV](https://github.com/Hanna0806/rsschool-cv)**
