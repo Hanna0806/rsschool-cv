@@ -23,7 +23,8 @@ body {
     color: #444444;
 }
 
-.header, .footer {
+.header,
+.footer {
     background: #444444;
 }
 
@@ -33,7 +34,7 @@ body {
 
 .container {
     max-width: 1440px;
-    margin: 0 auto;
+    margin: 8px auto;
 }
 
 .nav-list {
@@ -62,7 +63,6 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 8px;
-    margin: 16px;
 }
 
 .section {
@@ -76,6 +76,7 @@ body {
 .section-title {
     color: #0080ff;
 }
+
 pre {
     background: #A9CCE3;
     border-radius: 10px;
